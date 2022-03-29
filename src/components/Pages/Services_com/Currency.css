@@ -1,0 +1,16 @@
+
+select{
+    
+    width: 50%;
+    height: 60px;
+    font-size: 20px;
+    cursor: pointer;
+    outline: none;
+    background-color: darkslateblue;
+    color: #fff;
+    margin-top :20px ;
+    padding: 0 1em;
+    border-radius: 10px;
+    border: none;
+  }
+  
